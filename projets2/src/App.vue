@@ -4,7 +4,8 @@ import HelloWorld from "@/components/HelloWorld.vue";
 </script>
 
 <template>
-  <h1 class="font-raleway">Home</h1>
+  <h1 class="">Home</h1>
+  <p class="text-red-800">Teeest</p>
   <header>
     <img
       alt="Vue logo"

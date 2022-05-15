@@ -19,9 +19,7 @@ module.exports = {
         "ramabhadra": "Ramabhadra",
         "montserrat": "Montserrat",
       },
-
     },
-
-    plugins: [],
-  }
+  },
+  plugins: [],
 }
